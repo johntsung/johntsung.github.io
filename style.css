@@ -1,3 +1,8 @@
 body {
   font-family: monospace;
+  background: Aquamarine;
+  text-align: center;
+}
+p{
+  color:red;
 }
